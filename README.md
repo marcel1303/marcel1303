@@ -14,7 +14,7 @@ Atualmente, estou ampliando meus conhecimentos em **Engenharia de Dados, Python 
 - **Qualidade de dados:** análise de inconsistências, validações e regras de negócio.
 - **Documentação técnica:** registro de regras, métricas e funcionamento de soluções analíticas.
 
-## 🌱 Tecnologias e conceitos em aprendizado
+## 🛠️ Tecnologias e conceitos em aprendizado
 
 - **Python:** desenvolvimento de rotinas para tratamento e ingestão de dados.
 - **Engenharia de Dados:** fundamentos de pipelines, ETL/ELT e integração de fontes.
